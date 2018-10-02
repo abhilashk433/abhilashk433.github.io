@@ -3,8 +3,13 @@ https://abhilashk433.github.io
 
 Portfolio Website Ver 2 (August 2018)
 
-Started learning React JS. 
+## Contrbuting guidelines:
+1. Check out the website
+2. Fork the repo
+3. Check out the issues
+4. Create a Pull request
 
-9/24/2018: New opp. at Celebal Enterprises.
-Let's learn node.js.
+# Need a portfolio like this:
+Fork this repo. and change the details in 'index.html' file.
 
+Feel free to ping [here](iamabhilash.me) for any help. :)
