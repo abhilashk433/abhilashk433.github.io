@@ -29,3 +29,6 @@ Feel free to ping [here](iamabhilash.me) for any help. :)
 #### helll
 #### hehheeheheh
 Linucyc
+
+# version 2 is on it's way
+
